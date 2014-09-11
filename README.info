@@ -1,5 +1,6 @@
 How to play:
-Use from command line to start application: java MouseClicker 111 222 true 4 55
+1. use maven to package a jar file
+2. use from command line to start application: java -cp MouseClicker.jar MouseClicker 1200 660 false 5 1
 
  111 - x coordinate of the screen
  222 - y coordinate of the screen

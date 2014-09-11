@@ -8,5 +8,8 @@
     <artifactId>MouseClicker</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <build>
+        <finalName>MouseClicker</finalName>
+    </build>
 
 </project>
