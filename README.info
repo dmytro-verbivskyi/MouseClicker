@@ -5,4 +5,4 @@ Use from command line to start application: java MouseClicker 111 222 true 4 55
  222 - y coordinate of the screen
 true - hold mouse on the X;Y. if false mouse will be free to move
    4 - amount of seconds to wait before main clicking loop
-  55 - amount of MINUTES to left click mouse
+  55 - amount of MINUTES to left click mouse.
